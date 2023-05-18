@@ -1,0 +1,15 @@
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\bin\Debug\Bedir Hotel Pansiyon ve Dinlenme.exe.config
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\bin\Debug\Bedir Hotel Pansiyon ve Dinlenme.exe
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\bin\Debug\Bedir Hotel Pansiyon ve Dinlenme.pdb
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir Hotel Pansiyon ve Dinlenme.csproj.AssemblyReference.cache
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir Hotel Pansiyon ve Dinlenme.csproj.SuggestedBindingRedirects.cache
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir_Hotel_Pansiyon_ve_Dinlenme.Properties.Resources.resources
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir Hotel Pansiyon ve Dinlenme.csproj.GenerateResource.cache
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir Hotel Pansiyon ve Dinlenme.csproj.CoreCompileInputs.cache
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir Hotel Pansiyon ve Dinlenme.exe
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir Hotel Pansiyon ve Dinlenme.pdb
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir_Hotel_Pansiyon_ve_Dinlenme.Yeni_Müsteri_Ekle.resources
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir_Hotel_Pansiyon_ve_Dinlenme.FormAdmin.resources
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir_Hotel_Pansiyon_ve_Dinlenme.FrmAnaform.resources
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir_Hotel_Pansiyon_ve_Dinlenme.FrmOdalar.resources
+C:\Users\burk_\source\repos\Bedir Hotel Pansiyon ve Dinlenme\Bedir Hotel Pansiyon ve Dinlenme\obj\Debug\Bedir_Hotel_Pansiyon_ve_Dinlenme.FrmMüsteri.resources
